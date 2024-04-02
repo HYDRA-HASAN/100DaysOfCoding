@@ -1,0 +1,12 @@
+{
+  "name": "100daysofcoding",
+  "version": "1.0.0",
+  "description": "🚀 100 Days of Coding Challenge 🚀\r #100DaysOfCode #CodeToLearn #LearningJourney",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
